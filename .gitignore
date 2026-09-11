@@ -1,0 +1,12 @@
+build/
+output/*
+!output/.gitkeep
+.cache/
+.vscode/
+.idea/
+.vs/
+.DS_Store
+*.blend1
+
+# HDRIs are CC0 downloads, not repo payload — see assets/README.md
+assets/*.exr
